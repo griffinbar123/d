@@ -7,4 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="alt_bg">#707070</color>
+    <color name="alt2">#323232</color>
+    <color name="test">#858585</color>
 </resources>
