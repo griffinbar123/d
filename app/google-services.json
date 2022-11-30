@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17393413747",
+    "project_id": "makesomethingkool",
+    "storage_bucket": "makesomethingkool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17393413747:android:d24ec2a1a816b7f82e0406",
+        "android_client_info": {
+          "package_name": "com.example.gjb_idk2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17393413747-t4anl21h5i3737b3b1fpf4e84sif6vmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB7UCi7pbFoih1M-Sms1xBoSVVbeJyma0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17393413747-t4anl21h5i3737b3b1fpf4e84sif6vmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
